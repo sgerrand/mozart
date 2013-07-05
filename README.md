@@ -1,14 +1,17 @@
 # Mozart - A Clientside MVC Framework in CoffeeScript
 
-*Version 0.1.8, 1 July 2013*
+*Version 0.1.9, 1 August 2013*
 
 Please see http://mozart.io for documentation, examples etc.
 
 # Changelog
 
+## 0.1.9
+
 ## 0.1.8
 
 * HTTP CORS Support
+* Routing, Binding Bugfixes 
 
 ## 0.1.7
 
